@@ -1,0 +1,2 @@
+# LocalStoragePractice
+Local Storage task
